@@ -18,5 +18,5 @@ I am from Guntur, AndhraPradesh, India. I have done my bachelor's degree in comp
 
 ## Me 
 
-![](image.jpg)
+![](img.JPG)
 
